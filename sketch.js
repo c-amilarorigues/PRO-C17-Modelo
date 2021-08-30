@@ -122,7 +122,7 @@ function draw() {
     
 }else if (gameState === END) {
     gameOver.visible = true;
-    //Acrescente código para mostrar a instrução restart (reiniciar) no texto aqui
+    //Acrescente código para mostrar a instrução restart (reiniciar) aqui no texto
   
   
     path.velocityX = 0;
